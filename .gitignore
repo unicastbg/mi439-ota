@@ -1,0 +1,6 @@
+# Local generated test files
+*.tmp
+*.log
+
+# Never commit ROM zips to the Pages repo.
+*.zip
