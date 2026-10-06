@@ -1,18 +1,1 @@
-[
-  {
-    "datetime": 1791293225,
-    "files": [
-      {
-        "filename": "lineage-23.2-20261006-UNOFFICIAL-Mi439-cert-fixed.zip",
-        "sha256": "87ed1df04e141b086d1486827e2d46cbfa716e8b994472953eaa204923e0502a",
-        "size": 1204010603,
-        "url": "https://github.com/unicastbg/mi439-builds/releases/download/mi439-23.2-20261006-cert-test/lineage-23.2-20261006-UNOFFICIAL-Mi439-cert-fixed.zip",
-        "os_patch_level": "2026-09-01",
-        "os_sdk_level": 36,
-        "ota_property_files": "metadata:69:369,metadata.pb:506:294                 "
-      }
-    ],
-    "type": "UNOFFICIAL",
-    "version": "23.2"
-  }
-]
+[]
