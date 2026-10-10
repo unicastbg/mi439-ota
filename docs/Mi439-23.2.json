@@ -1,12 +1,12 @@
 [
   {
-    "datetime": 1791560937,
+    "datetime": 1791625938,
     "files": [
       {
-        "filename": "lineage-23.2-20261009-UNOFFICIAL-Mi439.zip",
-        "sha256": "8cd3240cbb2fa844315ddf8dc52eea3abd8fc1b7a64dda9a39c352bb17475944",
-        "size": 1204095164,
-        "url": "https://github.com/unicastbg/mi439-builds/releases/download/mi439-23.2-20261009/lineage-23.2-20261009-UNOFFICIAL-Mi439.zip",
+        "filename": "lineage-23.2-20261010-UNOFFICIAL-Mi439.zip",
+        "sha256": "bd40e7d9a8d8ee996b7b1ff39bc768183f1f7b11771dda7700471fc3aa5e467b",
+        "size": 1204007533,
+        "url": "https://github.com/unicastbg/mi439-builds/releases/download/mi439-23.2-20261010/lineage-23.2-20261010-UNOFFICIAL-Mi439.zip",
         "os_patch_level": "2026-10-01",
         "os_sdk_level": 36,
         "ota_property_files": "metadata:69:369,metadata.pb:506:294                 "
