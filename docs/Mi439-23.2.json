@@ -1,19 +1,20 @@
 [
   {
-    "datetime": 1791625938,
+    "datetime": 1792089757,
     "files": [
       {
-        "filename": "lineage-23.2-20261010-UNOFFICIAL-Mi439.zip",
-        "sha256": "bd40e7d9a8d8ee996b7b1ff39bc768183f1f7b11771dda7700471fc3aa5e467b",
-        "size": 1204007533,
-        "url": "https://github.com/unicastbg/mi439-builds/releases/download/mi439-23.2-20261010/lineage-23.2-20261010-UNOFFICIAL-Mi439.zip",
+        "filename": "lineage-23.2-20261015-UNOFFICIAL-Mi439.zip",
+        "sha256": "eecc3391fcb9ddf42f71cea4953275a7aa92d439f884216124bbdcfd85521aec",
+        "size": 1199650163,
+        "url": "https://github.com/unicastbg/mi439-builds/releases/download/mi439-23.2-20261015/lineage-23.2-20261015-UNOFFICIAL-Mi439.zip",
         "os_patch_level": "2026-10-01",
         "os_sdk_level": 36,
         "ota_property_files": "metadata:69:369,metadata.pb:506:294                 "
       }
     ],
     "type": "UNOFFICIAL",
-    "version": "23.2"
+    "version": "23.2",
+    "release_notes": "WebView 155.0.8059.39 security update; Bluetooth L2CAP fix."
   }
 ]
 
