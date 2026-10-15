@@ -1,19 +1,20 @@
 [
   {
-    "datetime": 1791649229,
+    "datetime": 1792094144,
     "files": [
       {
-        "filename": "lineage-23.2-20261010-UNOFFICIAL-Mi8937.zip",
-        "sha256": "8d7f644ac874edbb4716c1c29e3c44ae9d1c0c9ba8f8f22d89764945c16cb26d",
-        "size": 1111116038,
-        "url": "https://github.com/unicastbg/mi8937-builds/releases/download/mi8937-23.2-20261010/lineage-23.2-20261010-UNOFFICIAL-Mi8937.zip",
+        "filename": "lineage-23.2-20261015-UNOFFICIAL-Mi8937.zip",
+        "sha256": "368d2b1695edfcb85799856a725fee0b86fd41d19ee46614424c0a30f5c00033",
+        "size": 1106733177,
+        "url": "https://github.com/unicastbg/mi8937-builds/releases/download/mi8937-23.2-20261015/lineage-23.2-20261015-UNOFFICIAL-Mi8937.zip",
         "os_patch_level": "2026-10-01",
         "os_sdk_level": 36,
         "ota_property_files": "metadata:69:335,metadata.pb:472:233                 "
       }
     ],
     "type": "UNOFFICIAL",
-    "version": "23.2"
+    "version": "23.2",
+    "release_notes": "WebView 155.0.8059.39 security update; Bluetooth L2CAP fix."
   }
 ]
 
