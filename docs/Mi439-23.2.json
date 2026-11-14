@@ -1,12 +1,12 @@
 [
   {
-    "datetime": 1794604250,
+    "datetime": 1794652851,
     "files": [
       {
-        "filename": "lineage-23.2-20261113-UNOFFICIAL-Mi439.zip",
-        "sha256": "583def9a72dc0e8cb39c4dacf91c3b0928b2df186a7cf30ad7c867af0e3939d5",
-        "size": 1200672111,
-        "url": "https://github.com/unicastbg/mi439-builds/releases/download/mi439-23.2-20261113/lineage-23.2-20261113-UNOFFICIAL-Mi439.zip",
+        "filename": "lineage-23.2-20261114-UNOFFICIAL-Mi439.zip",
+        "sha256": "a7cd09e7cc2020aa94aa12833fbe6a0c8f624da8fc9c3763d8be9ddf0c957e83",
+        "size": 1200726876,
+        "url": "https://github.com/unicastbg/mi439-builds/releases/download/mi439-23.2-20261114/lineage-23.2-20261114-UNOFFICIAL-Mi439.zip",
         "os_patch_level": "2026-11-01",
         "os_sdk_level": 36,
         "ota_property_files": "metadata:69:369,metadata.pb:506:294                 "
@@ -14,7 +14,6 @@
     ],
     "type": "UNOFFICIAL",
     "version": "23.2",
-    "release_notes": "Android security patch level: November 1, 2026."
+    "release_notes": "Android security patch level: November 1, 2026. USB storage visibility and exFAT support."
   }
 ]
-
